@@ -1,0 +1,12 @@
+Teoria de automatas
+
+1.-  /^Start.+$/
+2.-  /.*end\b/
+3.-  /\bwhole\b/
+4.-  /\bfoo\b[?=\s*bar]/
+5.-  /\bfoo\b(?!\s*bar)/
+6.-  /[?<=\bfoo\s*]\bbar\b/
+7.-  /(?<!\bfoo\s*)\bbar\b/
+8.-  /^Hello\b/
+9.-  /\bgoodbye\b$/
+10.- /(?<!\b)mid(?!\b)/
